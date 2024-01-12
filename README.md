@@ -1,1 +1,3 @@
-# Hello-local-remote testing purpose
+# maven-project
+
+Simple Maven Project
